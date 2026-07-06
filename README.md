@@ -24,7 +24,7 @@ No manual triage. No hallucinated answers — every reply is backed by real, ret
 
 ## 🏗️ Workflow
 
-![Workflow Diagram](./screenshots/workflow.png)
+![Workflow Diagram](workflow.png)
 
 | Node | Purpose |
 |---|---|
@@ -52,7 +52,7 @@ No manual triage. No hallucinated answers — every reply is backed by real, ret
 >
 > If you have any specific questions or need more details about our policies, feel free to ask!
 
-![Reply Example](./screenshots/replytoemail.png)
+![Reply Example](replytoemail.png)
 
 The reply above was generated entirely by the AI Agent, grounded in the actual privacy policy document stored in Pinecone — not a generic canned response.
 
